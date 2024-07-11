@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Adds a new component to fetch experiments specifically for authenticated users
 - Initial version.
 - Introduce the both the backend layer and frontend components for the ExPlat package.
 
