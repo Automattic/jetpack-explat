@@ -15,4 +15,5 @@ This is an alpha version! The changes listed here are not final.
 - Introduce the both the backend layer and frontend components for the ExPlat package.
 
 ### Changed
+- ExPlat: add condition to prevent fetching the experiment assignment if there's not anon id (meaning that Tracks is likely disabled)
 - Updated package dependencies.
